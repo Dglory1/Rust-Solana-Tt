@@ -1,3 +1,0 @@
-# PDAs
-
-![](pdas.jpg)
